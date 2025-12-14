@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+env/
+
+# Large data files
+*.xlsx
+*.xls
+*.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# __pycache__ and other build files
+__pycache__/
+*.pyc
